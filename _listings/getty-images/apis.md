@@ -31,7 +31,7 @@ apis:
   tags: Boards
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/boards/master/_listings/getty-images/v3-boards-board-id-assets-delete.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/boards/master/_listings/getty-images/v3-boards-board-id-assets-put.md
 x-common:
 - type: x-authentication
   url: https://github.com/gettyimages/connect#authentication
