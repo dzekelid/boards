@@ -31,7 +31,7 @@ apis:
   tags: Boards
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/getty-images/v3-boards-board-id-comments-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/getty-images/v3-boards-board-id-comments-post.md
 x-common:
 - type: x-authentication
   url: https://github.com/gettyimages/connect#authentication
