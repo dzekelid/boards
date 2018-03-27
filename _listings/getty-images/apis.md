@@ -22,16 +22,7 @@ created: "2018-03-27"
 modified: "2018-03-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/getty-images/apis.yaml
 specificationVersion: "0.14"
-apis:
-- name: Getty Images
-  description: Getty Images, Inc
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/getty-images.jpeg
-  humanURL: ""
-  baseURL: https://api.gettyimages.com//
-  tags: Boards
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/getty-images/v3-boards-get.md
+apis: []
 x-common:
 - type: x-authentication
   url: https://github.com/gettyimages/connect#authentication
