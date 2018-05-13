@@ -1,8 +1,13 @@
 ---
 swagger: "2.0"
 info:
-  title: Getty Images
-  description: Build applications using the world's most powerful imagery
+  title: Getty Images Add a comment to a board
+  description: "Boards are where you collect, curate, collaborate on and manage photo
+    and video assets in one place. More information on the [Boards FAQ](http://www.gettyimages.com/boards/faq).\r\nUse
+    this endpoint to add a comment to a board.\r\n\r\nYou'll need an API key and a
+    [Resource Owner Grant](http://developers.gettyimages.com/en/authorization-faq.html)
+    access token to use this resource. Please see our [Getting Started](http://developers.gettyimages.com/en/getting-started.html)
+    page for more information on how to sign up for an API key."
   version: 1.0.0
 host: api.gettyimages.com
 basePath: /
