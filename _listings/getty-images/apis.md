@@ -32,22 +32,24 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/getty-images/v3-boards-board-id-comments-comment-id-delete.md
-- name: Getty Images Get Board Assets
+- name: Getty Images Update Board
   description: "Boards are where you collect, curate, collaborate on and manage photo
     and video assets in one place. More information on the [Boards FAQ](http://www.gettyimages.com/boards/faq).
-    Use this endpoint to retrieve a Board by a specific id.\r\n\r\nYou'll need an
-    API key and a [Resource Owner Grant](http://developers.gettyimages.com/en/authorization-faq.html)
+    Use this endpoint to update a Board by a specific id.\r\n\r\nYou'll need an API
+    key and a [Resource Owner Grant](http://developers.gettyimages.com/en/authorization-faq.html)
     access token to use this resource. Please see our [Getting Started](http://developers.gettyimages.com/en/getting-started.html)
-    page for more information on how to sign up for an API key."
+    page for more information on how to sign up for an API key.\r\n\r\n**NOTE:** *The
+    input to this endpoint is not sanitized in any way, so it is the responsibility
+    of the client to ensure that it is properly formatted and guards against malicious
+    data (for example cross-site scripting attacks or HTML injection) when accessing
+    the data.*"
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/getty-images.jpeg
   humanURL: http://www.gettyimages.com/
   baseURL: https://api.gettyimages.com//
   tags: Boards
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/getty-images/v3-boards-board-id-get.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/getty-images/v3-boards-board-id-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/getty-images/v3-boards-board-id-put.md
 x-common:
 - type: x-authentication
   url: https://github.com/gettyimages/connect#authentication
