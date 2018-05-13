@@ -1,8 +1,13 @@
 ---
 swagger: "2.0"
 info:
-  title: Getty Images
-  description: Build applications using the world's most powerful imagery
+  title: Getty Images Add an asset to a board
+  description: "Boards are where you collect, curate, collaborate on and manage photo
+    and video assets in one place.\r\nMore information on the [Boards FAQ](http://www.gettyimages.com/boards/faq).
+    Use this endpoint to add an asset to a board.\r\n\r\nYou'll need an API key and
+    a [Resource Owner Grant](http://developers.gettyimages.com/en/authorization-faq.html)
+    access token to use this resource.\r\nPlease see our [Getting Started](http://developers.gettyimages.com/en/getting-started.html)
+    page for more information on how to sign up for an API key."
   version: 1.0.0
 host: api.gettyimages.com
 basePath: /
