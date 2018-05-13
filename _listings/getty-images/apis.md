@@ -32,11 +32,11 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/getty-images/v3-boards-board-id-comments-comment-id-delete.md
-- name: Getty Images Add a comment to a board
+- name: Getty Images Delete a comment from a board
   description: "Boards are where you collect, curate, collaborate on and manage photo
     and video assets in one place. More information on the [Boards FAQ](http://www.gettyimages.com/boards/faq).\r\nUse
-    this endpoint to add a comment to a board.\r\n\r\nYou'll need an API key and a
-    [Resource Owner Grant](http://developers.gettyimages.com/en/authorization-faq.html)
+    this endpoint to delete a comment from a board.\r\n\r\nYou'll need an API key
+    and a [Resource Owner Grant](http://developers.gettyimages.com/en/authorization-faq.html)
     access token to use this resource. Please see our [Getting Started](http://developers.gettyimages.com/en/getting-started.html)
     page for more information on how to sign up for an API key."
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/getty-images.jpeg
@@ -45,7 +45,9 @@ apis:
   tags: Boards
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/getty-images/v3-boards-board-id-comments-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/getty-images/v3-boards-board-id-comments-comment-id-delete.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/getty-images/v3-boards-board-id-comments-comment-id-delete-postman.md
 x-common:
 - type: x-authentication
   url: https://github.com/gettyimages/connect#authentication
