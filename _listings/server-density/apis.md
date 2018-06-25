@@ -5,10 +5,10 @@ description: SaaS infrastructure monitoring. Dashboards, graphs and alerts to he
   you improve performance and maintain uptime. Organizer of @humanops
 image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/475-server-density.jpg
 x-kinRank: "7"
-x-alexaRank: "197497"
+x-alexaRank: "209719"
 tags: Boards
-created: "2018-06-17"
-modified: "2018-06-17"
+created: "2018-06-25"
+modified: "2018-06-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/server-density/apis.md
 specificationVersion: "0.14"
 apis:
@@ -58,6 +58,8 @@ x-common:
   url: hello@serverdensity.com
 - type: x-github
   url: https://github.com/serverdensity
+- type: x-linkedin
+  url: https://www.linkedin.com/company/server-density
 - type: x-twitter
   url: https://twitter.com/serverdensity
 - type: x-website
