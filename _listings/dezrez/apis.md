@@ -7,11 +7,161 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-
 x-kinRank: "7"
 x-alexaRank: "385559"
 tags: Boards
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/dezrez/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Dezrez.Rezi.Client.Api - Generates an board ordering New correspondence
+  x-api-slug: apidocumentgenerationboardordernew-post
+  description: Generates an board ordering new correspondence.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/dezrez/apidocumentgenerationboardordernew-post-openapi.md
+- name: Dezrez.Rezi.Client.Api - Generates an board ordering Replace correspondence
+  x-api-slug: apidocumentgenerationboardorderreplace-post
+  description: Generates an board ordering replace correspondence.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/dezrez/apidocumentgenerationboardorderreplace-post-openapi.md
+- name: Dezrez.Rezi.Client.Api - Generates an board ordering Takedown correspondence
+  x-api-slug: apidocumentgenerationboardordertakedown-post
+  description: Generates an board ordering takedown correspondence.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/dezrez/apidocumentgenerationboardordertakedown-post-openapi.md
+- name: Dezrez.Rezi.Client.Api - Generates an board ordering Update correspondence
+  x-api-slug: apidocumentgenerationboardorderupdate-post
+  description: Generates an board ordering update correspondence.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/dezrez/apidocumentgenerationboardorderupdate-post-openapi.md
+- name: Dezrez.Rezi.Client.Api - To send an board request email to a external provider
+  x-api-slug: apiroleidboardrequest-post
+  description: To send an board request email to a external provider.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/dezrez/apiroleidboardrequest-post-openapi.md
+- name: Dezrez.Rezi.Client.Api - Generates an board ordering New correspondence
+  x-api-slug: apidocumentgenerationboardordernew-post
+  description: Generates an board ordering new correspondence.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/dezrez/apidocumentgenerationboardordernew-post-openapi.md
+- name: Dezrez.Rezi.Client.Api - Generates an board ordering Replace correspondence
+  x-api-slug: apidocumentgenerationboardorderreplace-post
+  description: Generates an board ordering replace correspondence.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/dezrez/apidocumentgenerationboardorderreplace-post-openapi.md
+- name: Dezrez.Rezi.Client.Api - Generates an board ordering Takedown correspondence
+  x-api-slug: apidocumentgenerationboardordertakedown-post
+  description: Generates an board ordering takedown correspondence.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/dezrez/apidocumentgenerationboardordertakedown-post-openapi.md
+- name: Dezrez.Rezi.Client.Api - Generates an board ordering Update correspondence
+  x-api-slug: apidocumentgenerationboardorderupdate-post
+  description: Generates an board ordering update correspondence.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/dezrez/apidocumentgenerationboardorderupdate-post-openapi.md
+- name: Dezrez.Rezi.Client.Api - To send an board request email to a external provider
+  x-api-slug: apiroleidboardrequest-post
+  description: To send an board request email to a external provider.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/dezrez/apiroleidboardrequest-post-openapi.md
+- name: Dezrez.Rezi.Client.Api - To send an board request email to a external provider
+  x-api-slug: apiroleidboardrequest-post
+  description: To send an board request email to a external provider.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/dezrez/apiroleidboardrequest-post-openapi.md
+- name: Dezrez.Rezi.Client.Api - Generates an board ordering Update correspondence
+  x-api-slug: apidocumentgenerationboardorderupdate-post
+  description: Generates an board ordering update correspondence.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/dezrez/apidocumentgenerationboardorderupdate-post-openapi.md
+- name: Dezrez.Rezi.Client.Api - Generates an board ordering Takedown correspondence
+  x-api-slug: apidocumentgenerationboardordertakedown-post
+  description: Generates an board ordering takedown correspondence.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/dezrez/apidocumentgenerationboardordertakedown-post-openapi.md
+- name: Dezrez.Rezi.Client.Api - Generates an board ordering Replace correspondence
+  x-api-slug: apidocumentgenerationboardorderreplace-post
+  description: Generates an board ordering replace correspondence.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/dezrez/apidocumentgenerationboardorderreplace-post-openapi.md
+- name: Dezrez.Rezi.Client.Api - Generates an board ordering New correspondence
+  x-api-slug: apidocumentgenerationboardordernew-post
+  description: Generates an board ordering new correspondence.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/boards/master/_listings/dezrez/apidocumentgenerationboardordernew-post-openapi.md
 x-common:
 - type: x-github
   url: https://github.com/dezrez
